@@ -71,22 +71,22 @@ The result can be found [here](https://public.tableau.com/profile/gabriela.nakas
 
 ### Genre
 <p align="center">
-  <img width="550" src="https://github.com/gabrielanakasato/ironhack-daft/blob/master/proj/project03-tiktok-viral-songs/image/viral-songs-genres.PNG">
+  <img width="550" src="https://github.com/gabrielanakasato/tiktok-viral-songs/blob/main/image/viral-songs-genres.PNG">
 </p>
 
 ### Release Date and Explicit
 <p align="center">
-  <img width="550" src="https://github.com/gabrielanakasato/ironhack-daft/blob/master/proj/project03-tiktok-viral-songs/image/viral-songs-release_date-explicit.PNG">
+  <img width="550" src="https://github.com/gabrielanakasato/tiktok-viral-songs/blob/main/image/viral-songs-release_date-explicit.PNG">
 </p>
 
 ### Audio Features
 <p align="center">
-  <img width="550" src="https://github.com/gabrielanakasato/ironhack-daft/blob/master/proj/project03-tiktok-viral-songs/image/viral-songs-audio_features-radar.PNG">
+  <img width="550" src="https://github.com/gabrielanakasato/tiktok-viral-songs/blob/main/image/viral-songs-audio_features-radar.PNG">
 </p>
 
 ### Being a TikTok viral song is the same as being popular in other platforms?
 <p align="center">
-  <img width="550" src="https://github.com/gabrielanakasato/ironhack-daft/blob/master/proj/project03-tiktok-viral-songs/image/viral-songs-tiktok-spotify.PNG">
+  <img width="550" src="https://github.com/gabrielanakasato/tiktok-viral-songs/blob/main/image/viral-songs-tiktok-spotify.PNG">
 </p>
 
 ## Learning Process
