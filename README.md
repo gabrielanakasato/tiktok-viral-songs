@@ -1,4 +1,4 @@
-# :bar_chart:Data Gathering & Visualization:bar_chart:
+<h1 align="center">:bar_chart:Data Gathering & Visualization:bar_chart:</h1>
 
 ## Description
 This is the result of the third project for the Ironhack Data Analytics Bootcamp, using all knowledge acquired up to Week 5 - Day 5.
