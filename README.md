@@ -1,4 +1,4 @@
-# Project 03 | Data Gathering & Visualization :bar_chart:
+# :bar_chart:Data Gathering & Visualization:bar_chart:
 
 ## Description
 This is the result of the third project for the Ironhack Data Analytics Bootcamp, using all knowledge acquired up to Week 5 - Day 5.
