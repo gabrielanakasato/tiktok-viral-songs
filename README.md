@@ -1,7 +1,7 @@
 <h1 align="center">:bar_chart:Data Gathering & Visualization:bar_chart:</h1>
 
 ## Description
-This is the result of the third project for the Ironhack Data Analytics Bootcamp, using all knowledge acquired up to Week 5 - Day 5.
+This is the result of the third project for the Ironhack Data Analytics Bootcamp, practicing data gathering and visualization and using all knowledge acquired up to Week 5 - Day 5.
 
 ## Project Status
 :white_check_mark: Complete 
@@ -90,6 +90,7 @@ The result can be found [here](https://public.tableau.com/profile/gabriela.nakas
 </p>
 
 ## Learning Process
+
 ### Challenges
 - Remember everything I have leaned from day 1
 - Access the Chartmetric API
@@ -103,3 +104,6 @@ The result can be found [here](https://public.tableau.com/profile/gabriela.nakas
 - [X] API
 - [X] Data Visualization
 - [ ] Data Pipeline
+
+### Improvements
+- Refactor the code
